@@ -2,6 +2,9 @@
 A clone of a simple UI 
 ======================
 
+Directories 
+=====
+
 Files :
 ==
 
@@ -13,3 +16,6 @@ Root/assets/img   : BG1.jpg , logo.png
 ===
 Root/assets/fonts : '*.otf ; .woff2 ; .woff .svg etc .
 ===
+
+
+Signed by Lanre Bello
