@@ -7,15 +7,12 @@ $to = "info@lanraeictsolutions.com";
 // Email Subject
 $subject = "Andela Project.";
 
-
-// This IF condition is for improving security  and Prevent Direct Access to the Mail Script.
 if($_POST) {
 
 // Collect POST data from form
 $name = stripslashes($_POST['name']);
 $email = stripslashes($_POST['email']);
 $phone = stripslashes($_POST['phone']);
-
 
 // Collecting all content in HTML Table
 $content='<table width="100%">
@@ -25,7 +22,6 @@ $content='<table width="100%">
 <tr><td>Phone:</td><td> '.$phone.'</td></tr>
 <tr><td>Date:</td> <td> '.date('d/m/Y').'</td></tr>
 </table> ';
-
 
 // Define email variables
 $headers = "From:".$email."\r\n";
