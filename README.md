@@ -1,6 +1,9 @@
 # Front-End-Development
 A clone of a simple UI 
 ======================
+Don't forget to place the folder in a server with mail capability to enjoy the full function of the form
+
+
 
 Directories 
 =====
