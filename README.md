@@ -1,6 +1,8 @@
 # Front-End-Development
 A clone of a simple UI 
 ======================
+[![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)[![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)[![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
+
 Don't forget to place the folder in a server with mail capability to enjoy the full function of the form
 
 
